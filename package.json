@@ -1,0 +1,19 @@
+{
+  "name": "wikhizome",
+  "version": "1.0.0",
+  "description": "rhizomatic wikipedia view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3xx1/wikhizome.git"
+  },
+  "author": "Hidekazu Saegusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3xx1/wikhizome/issues"
+  },
+  "homepage": "https://github.com/3xx1/wikhizome#readme"
+}
